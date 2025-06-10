@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     try {
-        cout <<
+        cout << "Selamat Belajar di prodi TI UMY" << endl;
+        throw 0.5; //melemparkan sebuah integer maka
     }
 }
