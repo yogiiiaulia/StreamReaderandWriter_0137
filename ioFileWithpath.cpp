@@ -9,4 +9,6 @@ int main() {
     cout << "Masukan nama file : "
     cin >> NamaFile;
     //membuka file dalam mode menulis
+    ostream outfile;
+    //menunjuk ke sebuah nama file
 }
